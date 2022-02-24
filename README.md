@@ -1,2 +1,2 @@
 # web-scraper
-Web Scraper for news sits using Node.js and Express!
+Web Scraper for news sites using Node.js and Express!
